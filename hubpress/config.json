@@ -5,8 +5,8 @@
     "branch": "gh-pages"
   },
   "site": {
-    "title": "Blog Title",
-    "description": "Blog Description",
+    "title": "this is a test blog",
+    "description": "this is a test description",
     "logo": "https://i.imgur.com/p5ENakG.gif",
     "cover": "https://i.imgur.com/zEaf8iH.jpg",
     "postsPerPage": "5"
