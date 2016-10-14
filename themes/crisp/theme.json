@@ -1,6 +1,11 @@
 {
   "files": {
-    "navigation": "partials/navigation.hbs",
+    "comments": "partials/comments.hbs",
+	"follow": "partials/follow.hbs",
+	"navigation": "partials/navigation.hbs",
+	"pagination": "partials/pagination.hbs",
+	"postlist": "partials/postlist.hbs",
+	"share": "partials/share.hbs",
     "default": "default.hbs",
     "index": "index.hbs",
     "page": "page.hbs",
