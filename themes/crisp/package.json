@@ -1,0 +1,8 @@
+{
+    "name"        : "Crisp for Rory",
+    "version"     : "0.5.1",
+    "description" : "A minimalist, responsive, and open-source theme for Ghost",
+    "author"      : "Rory Hayes",
+    "homepage"    : "https://github.com/rorosaurus/crisp-ghost-theme",
+		"license"     : "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+}
