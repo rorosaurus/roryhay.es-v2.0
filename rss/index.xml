@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[this is a test blog]]></title><description><![CDATA[this is a test description]]></description><link>http://github.roryhay.es</link><image><url>https://i.imgur.com/zEaf8iH.jpg</url><title>this is a test blog</title><link>http://github.roryhay.es</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Oct 2016 22:08:21 GMT</lastBuildDate><atom:link href="http://github.roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[markdown test]]></title><description><![CDATA[<h1 id="_hello_this_is_markdown_live_preview" class="sect0">hello, This is Markdown Live Preview</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[this is a test blog]]></title><description><![CDATA[this is a test description]]></description><link>http://github.roryhay.es</link><image><url>https://i.imgur.com/zEaf8iH.jpg</url><title>this is a test blog</title><link>http://github.roryhay.es</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 03 Nov 2016 23:21:35 GMT</lastBuildDate><atom:link href="http://github.roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[markdown test]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>yrdy test
+# hello, This is Markdown Live Preview</p>
+</div>
 <div class="listingblock">
 <div class="content">
 <pre>## what is Markdown?
 see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 
 &gt; Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz allowing people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)".</pre>
+</div>
+</div>
 </div>
 </div>
 <div class="sect1">
