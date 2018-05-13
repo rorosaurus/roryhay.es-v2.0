@@ -25,5 +25,25 @@
   },
   "theme": {
     "name": "crisp"
+  },
+  "urls": {
+    "site": "http://github.roryhay.es",
+    "hubpress": "http://github.roryhay.es",
+    "theme": "//github.roryhay.es/themes/crisp",
+    "images": "http://github.roryhay.es/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
