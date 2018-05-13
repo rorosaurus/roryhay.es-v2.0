@@ -10,7 +10,11 @@
     "description": "this is a test description",
     "logo": "https://i.imgur.com/p5ENakG.gif",
     "cover": "https://i.imgur.com/zEaf8iH.jpg",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "delay": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
   },
   "socialnetwork": {
     "email": "test@test.com",
@@ -21,7 +25,10 @@
     "flickr": "test",
     "instagram": "test",
     "pinterest": "test",
-    "github": "test"
+    "github": "test",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "crisp"
@@ -45,5 +52,11 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": [
+    {
+      "label": "statictest",
+      "url": "http://github.roryhay.es/static-page-test"
+    }
+  ]
 }
