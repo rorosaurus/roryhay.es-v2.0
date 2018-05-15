@@ -3,3 +3,11 @@
 :hp-alt-title: about-me
 
 Hi, my name is Rory!  I'm a +++<script>document.write(+((new Date().getTime() - 670294800000) / 31536000000).toFixed(2));</script>+++ year-old Software Engineer currently working in the Pacific Northwest.
+
+== Education
+
+I graduated from link:http://www.mst.edu/[Missouri S&T] in May of 2013 with two Bachelors of Science: Computer Science and Computer Engineering.  I also received a Minor in Mathematics.
+
+== Interests
+
+I'm fascinated by InfoSec and follow several conferences. I enjoy recruiting/interview work, mentoring, and volunteer work at science fairs. I am a Maker, Hackathon participant, and a huge fan of puzzles and coding challenges.
