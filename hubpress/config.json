@@ -6,11 +6,11 @@
     "cname": "github.roryhay.es"
   },
   "site": {
-    "title": "this is a test blog",
-    "description": "this is a test description",
-    "logo": "https://i.imgur.com/p5ENakG.gif",
-    "cover": "https://i.imgur.com/zEaf8iH.jpg",
-    "postsPerPage": "5",
+    "title": "Rory Hayes",
+    "description": "Software Engineer",
+    "logo": "/images/logo.png",
+    "cover": "",
+    "postsPerPage": "10",
     "delay": "",
     "blogPath": "",
     "googleAnalytics": "",
