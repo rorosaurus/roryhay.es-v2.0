@@ -31,12 +31,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "crisp"
   },
   "urls": {
     "site": "http://github.roryhay.es",
     "hubpress": "http://github.roryhay.es",
-    "theme": "//github.roryhay.es/themes/crisp",
+    "theme": "//github.roryhay.es/themes/casper",
     "images": "http://github.roryhay.es/images"
   },
   "initialisationConfigComponent": {
