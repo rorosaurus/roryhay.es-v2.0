@@ -3,7 +3,9 @@
 :hp-tags: math, prime, parenthood, boinc
 :hp-alt-title: prime
 
-One day I decided I want to discover a prime number of my very own. **203.53 quadrillion** floating-point operations later, I became the proud father of:
+One day I decided I want to discover a prime number of my very own.
+
+After a bit of research, and **203.53 quadrillion** floating-point operations later, I became the proud father of:
 
 == 5687 · 2+++<sup>1376451</sup>+++ + 1
 
