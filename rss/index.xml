@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rory Hayes]]></title><description><![CDATA[Software Engineer]]></description><link>http://github.roryhay.es</link><generator>RSS for Node</generator><lastBuildDate>Tue, 15 May 2018 04:32:12 GMT</lastBuildDate><atom:link href="http://github.roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Rory's Prime]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rory Hayes]]></title><description><![CDATA[Software Engineer]]></description><link>http://github.roryhay.es</link><generator>RSS for Node</generator><lastBuildDate>Tue, 15 May 2018 04:35:35 GMT</lastBuildDate><atom:link href="http://github.roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Rory's Prime]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p>One day I decided I want to discover a prime number of my very own. <strong>203.53 quadrillion</strong> floating-point operations later, I became the proud father of:</p>
+<p>One day I decided I want to discover a prime number of my very own.</p>
+</div>
+<div class="paragraph">
+<p>After a bit of research, and <strong>203.53 quadrillion</strong> floating-point operations later, I became the proud father of:</p>
 </div>
 </div>
 </div>
