@@ -56,7 +56,7 @@
   "navigation": [
     {
       "label": "statictest",
-      "url": "http://github.roryhay.es/static-page-test"
+      "url": "/static-page-test"
     }
   ]
 }
