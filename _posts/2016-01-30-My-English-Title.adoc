@@ -1,0 +1,21 @@
+= Rory's Prime
+:published_at: 2016-01-30
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: My English Title
+
+One day I decided I want to discover a prime number of my very own. **203.53 quadrillion** floating-point operations later, I became the proud father of:
+
+== 5687 · 2+++<sup>1376451</sup>+++ + 1
+
+a **414,357 digit-long** http://primes.utm.edu/glossary/page.php?sort=TitanicPrime[titanic] http://mathworld.wolfram.com/ProthPrime.html[Proth Prime]!  As of ``1/29/2016 06:20:31 CDT``, this is the **2,261+++<sup>st</sup>+++ largest prime ever discovered!**
+
+Raw decimal representation: https://roryhay.es/files/rorys-prime-decimal.txt[rorys-prime-decimal.txt]
+
+This Proth Prime Search was done in collaboration with the http://www.prothsearch.net/index.html[Proth Search] project. This search looks for primes in the form of k · 2+++<sup>n</sup>+++ + 1, with the condition 2+++<sup>n</sup>+++ > k.  These are often called Proth primes.
+
+Thanks to the http://www.primegrid.com/[PrimeGrid] project and http://boinc.berkeley.edu/[BOINC] for making this pretty easy to get started!
+
+Additional links:
+
+* http://www.primegrid.com/primes/?section=primelist&userid=437086[Prime number list for participant "rorosaurus"]
+* http://primes.utm.edu/primes/page.php?id=120951[Entry in The Largest Known Primes Database]
