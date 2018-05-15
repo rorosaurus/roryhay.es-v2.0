@@ -1,9 +1,9 @@
 {
   "meta": {
     "username": "rorosaurus",
-    "repositoryName": "roryhay.es",
+    "repositoryName": "hubpress.io",
     "branch": "gh-pages",
-    "cname": "roryhay.es"
+    "cname": "github.roryhay.es"
   },
   "site": {
     "title": "this is a test blog",
@@ -34,8 +34,8 @@
     "name": "crisp"
   },
   "urls": {
-    "site": "https://roryhay.es",
-    "hubpress": "https://rorosaurus.github.io/roryhay.es",
+    "site": "http://github.roryhay.es",
+    "hubpress": "http://github.roryhay.es",
     "theme": "//github.roryhay.es/themes/crisp",
     "images": "http://github.roryhay.es/images"
   },
