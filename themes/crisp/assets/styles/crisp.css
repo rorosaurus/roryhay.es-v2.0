@@ -277,3 +277,15 @@ footer a:hover {
 		margin-left: 2em; 
 	}
 }
+/* Printer friendly hiding */
+@media print {
+	header {
+		display: none
+	}
+	#post-stamp {
+		display: none
+	}
+	footer {
+		display: none
+	}
+}
