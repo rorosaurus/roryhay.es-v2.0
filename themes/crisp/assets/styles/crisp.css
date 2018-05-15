@@ -280,15 +280,18 @@ footer a:hover {
 /* Printer friendly hiding */
 @media print {
 	header {
-		display: none
+		display: none;
+	}
+	article {
+		border-bottom: none;
 	}
 	body {
 		padding: 2em 2em 2em 2em;
 	}
 	.post-stamp {
-		display: none
+		display: none;
 	}
 	footer {
-		display: none
+		display: none;
 	}
 }
