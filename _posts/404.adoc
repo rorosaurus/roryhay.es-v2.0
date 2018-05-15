@@ -1,0 +1,5 @@
+= 404 Not Found
+:hp-type: page
+:hp-alt-title: 404
+
+The princess is in another castle :(
