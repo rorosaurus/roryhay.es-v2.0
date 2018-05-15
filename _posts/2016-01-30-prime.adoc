@@ -1,7 +1,7 @@
 = Rory's Prime
 :published_at: 2016-01-30
-:hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title: My English Title
+:hp-tags: math, prime, parenthood, boinc
+:hp-alt-title: prime
 
 One day I decided I want to discover a prime number of my very own. **203.53 quadrillion** floating-point operations later, I became the proud father of:
 
