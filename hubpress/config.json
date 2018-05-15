@@ -8,7 +8,7 @@
   "site": {
     "title": "Rory Hayes",
     "description": "Software Engineer",
-    "logo": "../images/logo.png",
+    "logo": "github.roryhay.es/images/logo.png",
     "cover": "",
     "postsPerPage": "10",
     "delay": "",
