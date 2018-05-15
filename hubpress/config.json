@@ -55,6 +55,10 @@
   },
   "navigation": [
     {
+      "label": "Home",
+      "url": "../"
+    },
+    {
       "label": "About Me",
       "url": "../about-me"
     }
