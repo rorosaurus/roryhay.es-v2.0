@@ -61,6 +61,10 @@
     {
       "label": "About Me",
       "url": "../about-me"
+    },
+    {
+      "label": "Resume",
+      "url": "https://github.com/rorosaurus/resume"
     }
   ]
 }
