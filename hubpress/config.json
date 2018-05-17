@@ -3,12 +3,12 @@
     "username": "rorosaurus",
     "repositoryName": "hubpress.io",
     "branch": "gh-pages",
-    "cname": "github.roryhay.es"
+    "cname": "roryhay.es"
   },
   "site": {
     "title": "Rory Hayes",
     "description": "Software Engineer",
-    "logo": "https://github.roryhay.es/images/logo.png",
+    "logo": "https://roryhay.es/images/logo.png",
     "cover": "",
     "postsPerPage": "10",
     "delay": "",
@@ -34,10 +34,10 @@
     "name": "crisp"
   },
   "urls": {
-    "site": "http://github.roryhay.es",
+    "site": "https://roryhay.es",
     "hubpress": "https://roryhay.es",
-    "theme": "//github.roryhay.es/themes/crisp",
-    "images": "http://github.roryhay.es/images"
+    "theme": "https://roryhay.es/themes/crisp",
+    "images": "https://roryhay.es/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
