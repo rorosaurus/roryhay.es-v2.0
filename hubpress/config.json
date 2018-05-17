@@ -1,7 +1,7 @@
 {
   "meta": {
     "username": "rorosaurus",
-    "repositoryName": "hubpress.io",
+    "repositoryName": "roryhay.es",
     "branch": "gh-pages",
     "cname": "roryhay.es"
   },
@@ -34,10 +34,10 @@
     "name": "crisp"
   },
   "urls": {
-    "site": "http://roryhay.es",
+    "site": "https://roryhay.es",
     "hubpress": "https://roryhay.es",
-    "theme": "//roryhay.es/themes/crisp",
-    "images": "http://roryhay.es/images"
+    "theme": "https://roryhay.es/themes/crisp",
+    "images": "https://roryhay.es/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
