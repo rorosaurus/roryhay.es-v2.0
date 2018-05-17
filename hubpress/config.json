@@ -34,10 +34,10 @@
     "name": "crisp"
   },
   "urls": {
-    "site": "https://roryhay.es",
+    "site": "http://roryhay.es",
     "hubpress": "https://roryhay.es",
-    "theme": "https://roryhay.es/themes/crisp",
-    "images": "https://roryhay.es/images"
+    "theme": "//roryhay.es/themes/crisp",
+    "images": "http://roryhay.es/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
