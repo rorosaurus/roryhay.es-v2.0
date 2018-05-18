@@ -1,4 +1,0 @@
-= About Me
-:hp-type: page
-
-Hi, my name is Rory!  I'm a <script>document.write(+((new Date().getTime() - 670294800000) / 31536000000).toFixed(2));</script> year-old Software Engineer currently working in the Pacific Northwest.
