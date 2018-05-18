@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rory Hayes]]></title><description><![CDATA[Software Engineer]]></description><link>http://roryhay.es</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 20:41:39 GMT</lastBuildDate><atom:link href="http://roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Rory's Prime]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rory Hayes2]]></title><description><![CDATA[Software Engineer]]></description><link>http://roryhay.es</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 May 2018 01:39:07 GMT</lastBuildDate><atom:link href="http://roryhay.es/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Rory's Prime]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>One day I decided I want to discover a prime number of my very own.</p>
@@ -15,7 +15,7 @@
 <p>a <strong>414,357 digit-long</strong> <a href="http://primes.utm.edu/glossary/page.php?sort=TitanicPrime">titanic</a> <a href="http://mathworld.wolfram.com/ProthPrime.html">Proth Prime</a>!  As of <code>1/29/2016 06:20:31 CDT</code>, this is the <strong>2,261<sup>st</sup> largest prime ever discovered!</strong></p>
 </div>
 <div class="paragraph">
-<p>Raw decimal representation: <a href="https://roryhay.es/files/rorys-prime-decimal.txt">rorys-prime-decimal.txt</a></p>
+<p>Raw decimal representation: <a href="https://roryhay.es/files/prime/decimal.txt">decimal.txt</a></p>
 </div>
 <div class="paragraph">
 <p>This Proth Prime Search was done in collaboration with the <a href="http://www.prothsearch.net/index.html">Proth Search</a> project. This search looks for primes in the form of k · 2<sup>n</sup> + 1, with the condition 2<sup>n</sup> &gt; k.  These are often called Proth primes.</p>
