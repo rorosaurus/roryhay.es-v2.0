@@ -2,9 +2,69 @@
   "meta": {
     "username": "rorosaurus",
     "repositoryName": "roryhay.es",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "roryhay.es"
+  },
+  "site": {
+    "title": "Rory Hayes",
+    "description": "Software Engineer",
+    "logo": "https://roryhay.es/images/logo.png",
+    "cover": "",
+    "postsPerPage": "10",
+    "delay": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "twitter": "",
+    "googleplus": "",
+    "linkedin": "",
+    "facebook": "",
+    "flickr": "",
+    "instagram": "",
+    "pinterest": "",
+    "github": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "crisp"
-  }
+  },
+  "urls": {
+    "site": "http://roryhay.es",
+    "hubpress": "https://roryhay.es",
+    "theme": "//roryhay.es/themes/crisp",
+    "images": "http://roryhay.es/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "../"
+    },
+    {
+      "label": "About Me",
+      "url": "../about-me"
+    },
+    {
+      "label": "Resume",
+      "url": "https://github.com/rorosaurus/resume"
+    }
+  ]
 }
