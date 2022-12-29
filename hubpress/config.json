@@ -1,14 +1,14 @@
 {
   "meta": {
     "username": "rorosaurus",
-    "repositoryName": "roryhay.es",
+    "repositoryName": "rorosaurus.github.io/roryhay.es-v2.0",
     "branch": "gh-pages",
-    "cname": "roryhay.es"
+    "cname": "rorosaurus.github.io/roryhay.es-v2.0"
   },
   "site": {
     "title": "Rory Hayes",
     "description": "Software Engineer",
-    "logo": "https://roryhay.es/images/logo.png",
+    "logo": "https://rorosaurus.github.io/roryhay.es-v2.0/images/logo.png",
     "cover": "",
     "postsPerPage": "10",
     "delay": "",
@@ -34,10 +34,10 @@
     "name": "crisp"
   },
   "urls": {
-    "site": "http://roryhay.es",
-    "hubpress": "https://roryhay.es",
-    "theme": "//roryhay.es/themes/crisp",
-    "images": "http://roryhay.es/images"
+    "site": "http://rorosaurus.github.io/roryhay.es-v2.0",
+    "hubpress": "https://rorosaurus.github.io/roryhay.es-v2.0",
+    "theme": "//rorosaurus.github.io/roryhay.es-v2.0/themes/crisp",
+    "images": "http://rorosaurus.github.io/roryhay.es-v2.0/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

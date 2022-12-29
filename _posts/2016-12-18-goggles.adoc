@@ -5,7 +5,7 @@
 
 A few months ago I made some custom LED goggles to light myself up at Burning Man 2016!  Since then I found they also fit in well at concerts and festivals I attend.  Since I keep getting questions about how to make them, I decided to throw together a post with some links and tips!
 
-image::https://roryhay.es/images/goggles/neopixel-goggles.gif[Shiny!]
+image::https://rorosaurus.github.io/roryhay.es-v2.0/images/goggles/neopixel-goggles.gif[Shiny!]
 
 == Build overview
 
